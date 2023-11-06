@@ -8,7 +8,7 @@ De cada **persona** debe poder obtenerse: los _recursos_ y si es o no _destacado
 
 En principio, corresponden estas definiciones:
 - los _recursos_ son las monedas que tiene una persona, inicialmente 20 para cualquier de ellas, pero puede ir variando con el tiempo.
-- una persona _es destacada_ si tiene entre 20 y 30 años o más de 30 de recursos. 
+- una persona es _destacada_ si tiene entre 18 y 65 años o más de 30 de recursos. 
 
 Además, a las personas le puede pasar : 
 - ganar o gastar monedas, en una cantidad dada.
